@@ -8,5 +8,9 @@
 <body>
     <h1>Belajar git remote yang ke2</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque vitae molestiae doloremque possimus soluta similique nulla sapiente eligendi numquam sed, atque quod dolores quidem ab minus quaerat corrupti libero accusamus!</p>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+    </ul>
 </body>
 </html>
