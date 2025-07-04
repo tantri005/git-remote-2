@@ -8,5 +8,9 @@
 <body>
     <h1>Hello word</h1>
     <p>Cara mengubah commit yang lokal ke github nya</p>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+    </ul>
     </body>
 </html>
