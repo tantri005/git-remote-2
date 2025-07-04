@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Hello word</h1>
-</body>
+    <p>Cara mengubah commit yang lokal ke github nya</p>
+    </body>
 </html>
